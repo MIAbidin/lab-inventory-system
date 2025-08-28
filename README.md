@@ -7,7 +7,7 @@ A comprehensive **Laboratory Computer Inventory Management System** built with *
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![alt text](?raw=true)
+![alt text](https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/dashboard.png?raw=true)
 *Main dashboard showing inventory statistics and distribution charts*
 
 ### Category Management
