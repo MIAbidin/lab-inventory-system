@@ -7,6 +7,7 @@ A comprehensive **Laboratory Computer Inventory Management System** built with *
 ## 📸 Screenshots
 
 ### Dashboard Overview
+![alt text](?raw=true)
 *Main dashboard showing inventory statistics and distribution charts*
 
 ### Category Management
