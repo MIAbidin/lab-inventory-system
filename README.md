@@ -7,18 +7,48 @@ A comprehensive **Laboratory Computer Inventory Management System** built with *
 ## 📸 Screenshots
 
 ### Dashboard Overview
+<p align="center">
+  <img src="https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/dashboard.png?raw=true" alt="Dashboard" width="600"/>
+  <br>
+  <b>Dashboard Overview</b>
+</p>
+
 *Main dashboard showing inventory statistics and distribution charts*
 
 ### Category Management
+<p align="center">
+  <img src="https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/category.png?raw=true" alt="Category Management" width="600"/>
+  <br>
+  <b>Category Management</b>
+</p>
+
 *Category management interface with item counts*
 
 ### Inventory Listing
+<p align="center">
+  <img src="https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/inventory.png?raw=true" alt="Inventory Listing" width="600"/>
+  <br>
+  <b>Inventory Listing</b>
+</p>
+
 *Complete inventory listing with filtering and search capabilities*
 
 ### Reports Module
+<p align="center">
+  <img src="https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/report.png?raw=true" alt="reporting" width="600"/>
+  <br>
+  <b>reporting</b>
+</p>
+
 *Comprehensive reporting system with export functionality*
 
 ### PDF Export Sample
+<p align="center">
+  <img src="https://github.com/MIAbidin/lab-inventory-system/blob/main/public/img/report-pdf.png?raw=true" alt="Sample PDF report" width="600"/>
+  <br>
+  <b>Sample PDF report</b>
+</p>
+
 *Sample PDF report with detailed inventory information*
 
 ---
